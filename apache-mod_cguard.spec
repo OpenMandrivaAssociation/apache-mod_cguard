@@ -6,7 +6,7 @@
 Summary:	Connection Guard Module for Apache 2
 Name:		apache-%{mod_name}
 Version:	0.1
-Release:	%mkrel 9
+Release:	%mkrel 10
 Group:		System/Servers
 License:	Apache License
 URL:		http://httpd.renatasystems.org/mod_cguard/
