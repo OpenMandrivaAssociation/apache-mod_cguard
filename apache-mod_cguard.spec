@@ -9,7 +9,7 @@ Version:	0.1
 Release:	%mkrel 10
 Group:		System/Servers
 License:	Apache License
-URL:		http://httpd.renatasystems.org/mod_cguard/
+URL:		https://httpd.renatasystems.org/mod_cguard/
 Source0:	http://httpd.renatasystems.org/mod_cguard/%{mod_name}-%{version}.tgz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
